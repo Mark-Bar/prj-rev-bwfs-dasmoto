@@ -1,0 +1,64 @@
+h1{
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+#topdiv{
+  height:150px;
+}
+
+#heading{
+  background: url("C:/Dosmotos/resources/images/pattern.jpeg");
+  height: 110px;
+  width: 100%;
+  margin-left: 180px;
+  margin-top: -10px;
+  margin-left: 0;
+}
+
+#brushes{
+  height: 400px;
+  width: 100%;
+}
+
+#frames{
+  height: 400px;
+  width: 100%;
+}
+
+#paint{
+  height: 400px;
+  width: 100%;
+}
+
+.divConstruct{
+  height:35px;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+.springgreen{
+background-color: mediumspringgreen;
+}
+
+.lightcoral{
+  background-color: lightcoral;
+}
+
+.skyblue{
+  background-color: skyblue;
+}
+
+.bluebold{
+  color: blue;
+  font-weight: bold;
+}
+
+h3, p{
+  font-family: helvetica
+}
